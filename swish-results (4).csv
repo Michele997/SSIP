@@ -1,0 +1,8 @@
+A,B,C,D
+7,"c(['Lima era cugino dei fratelli Salvo'],[])",Anagrafe,['Lima era cugino dei fratelli Salvo']
+6,"c(['Andreotti era amico di Lima'],[])",Andreotti,['Andreotti era amico di Lima']
+5,"c(['Andreotti conosceva i fratelli Salvo'],['Andreotti usava la macchina dei fratelli Salvo'])",Utente,"['Andreotti conosceva i fratelli Salvo','Andreotti usava la macchina dei fratelli Salvo']"
+4,"c(['Andreotti ha baciato Riina'],[])",Buscetta,['Andreotti ha baciato Riina']
+3,"c(['Andreotti usava la macchina dei fratelli Salvo'],[])",Mutolo,['Andreotti usava la macchina dei fratelli Salvo']
+2,"c(['Andreotti conosceva i fratelli Salvo'],[])",Mannoia,['Andreotti conosceva i fratelli Salvo']
+1,"c([],['Andreotti conosceva i fratelli Salvo'])",Andreotti,['Andreotti conosceva i fratelli Salvo']
