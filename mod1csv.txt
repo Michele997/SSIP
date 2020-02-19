@@ -1,0 +1,2 @@
+ind,modelli
+0,[1]
